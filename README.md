@@ -1,2 +1,2 @@
 # bug
-Can t chnage back from j5,js to java
+Can t change back from j5,js to java
